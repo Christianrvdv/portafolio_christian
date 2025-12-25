@@ -1,7 +1,7 @@
-### 📋 Descripción
+### Descripción
 Este es un portafolio profesional desarrollado como una Single Page Application (SPA) moderna y responsive. El sitio web presenta información personal, experiencia laboral, proyectos realizados, habilidades técnicas y un formulario de contacto, todo con un diseño elegante y funcional.
 
-### ✨ Características
+### Características
 - **Diseño Responsive**: Adaptable a dispositivos móviles, tablets y desktop
 - **Tema Claro/Oscuro**: Alternancia entre modos de visualización con persistencia en localStorage
 - **Navegación Suave**: Scroll suave entre secciones
@@ -10,7 +10,7 @@ Este es un portafolio profesional desarrollado como una Single Page Application 
 - **Optimizado para SEO**: Estructura semántica HTML
 - **Formulario de Contacto Funcional**: Integrado con Netlify Forms para recibir mensajes
 
-### 🛠️ Tecnologías Utilizadas
+### Tecnologías Utilizadas
 - **HTML5**: Estructura semántica del contenido
 - **CSS3**: Estilos con variables CSS y diseño responsive
 - **JavaScript**: Interactividad y funcionalidades dinámicas
@@ -18,7 +18,7 @@ Este es un portafolio profesional desarrollado como una Single Page Application 
 - **Google Fonts**: Tipografía (Segoe UI)
 - **Netlify Forms**: Para el manejo del formulario de contacto
 
-### 📁 Estructura del Proyecto
+### Estructura del Proyecto
 
 portafolio/
 │
@@ -29,7 +29,7 @@ portafolio/
 └── README.md # Este archivo
 
 
-### 🚀 Despliegue en Netlify
+### Despliegue en Netlify
 
 El portafolio está configurado para desplegarse en Netlify con el formulario de contacto completamente funcional.
 
@@ -46,7 +46,7 @@ El portafolio está configurado para desplegarse en Netlify con el formulario de
     - Los mensajes se recibirán en el panel de Netlify -> Forms
     - Configura notificaciones por email si lo deseas
 
-### 🎨 Personalización
+### Personalización
 **Información Personal**
 Editar en `index.html`:
 - Nombre y título en `.profile-card`
@@ -68,7 +68,7 @@ Personalizar en `estilo.css`:
 - Fuentes y tipografía
 - Espaciados y dimensiones
 
-### 📱 Secciones Incluidas
+### Secciones Incluidas
 - **Header**: Navegación principal con toggle de tema
 - **Perfil**: Tarjeta con información personal y redes
 - **Sobre mí**: Descripción profesional
@@ -79,21 +79,21 @@ Personalizar en `estilo.css`:
 - **Contacto**: Formulario de contacto funcional con Netlify
 - **Footer**: Información de copyright
 
-### 🌟 Funcionalidades JavaScript
+### Funcionalidades JavaScript
 - **Toggle Tema Claro/Oscuro**: Persistencia en localStorage
 - **Scroll Animations**: Efectos al hacer scroll
 - **Smooth Scrolling**: Navegación suave entre secciones
 - **Skill Bars Animation**: Animación de barras de habilidades
 - **Formulario de Contacto**: Envío asíncrono con Netlify Forms y manejo de estados
 
-### 📧 Formulario de Contacto
+### Formulario de Contacto
 El formulario de contacto está integrado con Netlify Forms y listo para usar. Incluye:
 - Validación de campos obligatorios
 - Protección contra spam con campo honeypot
 - Mensajes de éxito y error
 - Reinicio del formulario después del envío
 
-### 📄 Licencia
+### Licencia
 Este proyecto está bajo la Licencia MIT. Puedes usarlo libremente para tu portafolio personal.
 
 ---
